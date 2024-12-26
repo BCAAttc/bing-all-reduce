@@ -5,5 +5,5 @@
 
 具体源码在 ./collevtives.cu 中的 void RingAllreduce_1() 函数
 
-参考：https://github.com/baidu-research/baidu-allreduce
+详细的部署使用可以参考：https://github.com/baidu-research/baidu-allreduce
 
