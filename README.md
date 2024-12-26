@@ -1,4 +1,4 @@
-# ` bing allreduce`
+# ` IBing all-reduce`
 
 论文中 IBing all-reduce的简单实现，OpenMpi编译使用，cuda版本待开发...
 
