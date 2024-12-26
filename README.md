@@ -1,6 +1,6 @@
-# ` IBing all-reduce`
+# ` B-Ring all-reduce`
 
-论文中 IBing all-reduce的简单实现，OpenMpi编译使用，cuda版本待开发...
+论文中 B-Ring all-reduce的简单实现，OpenMpi编译使用，cuda版本待开发...
 
 
 具体源码在 ./collevtives.cu 中的 void RingAllreduce_1() 函数
